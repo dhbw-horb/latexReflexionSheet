@@ -1,3 +1,5 @@
+Template for the Reflexion sheet at the DHBW
+
 commands:
 	make all
 	make clean
